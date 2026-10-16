@@ -54,7 +54,7 @@ We use **RevenueCat, Inc.** (USA) as a service provider / data processor to veri
 - **Device and app metadata** (OS version, app version, language, country)
 - **Subscription status** (active, expired, in grace period, billing retry)
 
-RevenueCat does **not** receive the subscriptions you track, their amounts, your payment history, your notes or your PIN.
+RevenueCat does **not** receive the subscriptions you track, their amounts, your payment history or your PIN.
 
 - Role: **Data Processor** acting on our instructions under RevenueCat's Data Processing Agreement.
 - Transfers outside the EEA rely on the **EU Standard Contractual Clauses (SCCs)**.

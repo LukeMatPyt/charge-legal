@@ -108,7 +108,7 @@ You may stop using the App and uninstall it at any time. We may suspend or end y
 
 These Terms are governed by the **laws of the Republic of Poland**, excluding conflict-of-laws rules and the UN Convention on Contracts for the International Sale of Goods (CISG). Disputes go to the **competent courts of Poland**.
 
-**EU consumers:** you keep the protection of the mandatory consumer law of your country of residence and may bring proceedings in your local courts where Regulation (EU) No 1215/2012 allows. The European Commission's online dispute resolution platform: <https://ec.europa.eu/consumers/odr>.
+**EU consumers:** you keep the protection of the mandatory consumer law of your country of residence and may bring proceedings in your local courts where Regulation (EU) No 1215/2012 allows.
 
 ## 12. General
 
